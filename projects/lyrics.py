@@ -8,6 +8,8 @@ handle = urllib2.urlopen(request)
 
 content = handle.read()
 
+print content
+
 splitted_page = content.split("<div id=\"lyric_space\">", 1)
 
 splitted_page = splitted_page[1].split("</div>", 1)
