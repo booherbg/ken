@@ -115,6 +115,8 @@ class computer():
                 computer(platform, memory)
                 
             So let's do that.
+            
+            this actually gets called when we don't even print, just type 'c' in interpreter
         '''
         return "computer(platform=\'%s\', memory=%s)" % (self.platform, self.memory)
         
