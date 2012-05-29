@@ -1,0 +1,25 @@
+(imagic_methods
+computer
+p1
+(dp2
+S'peripherals'
+p3
+(lp4
+S'buttons'
+p5
+aS'screen'
+p6
+aS'speakers'
+p7
+aS'battery'
+p8
+aS'plastic case'
+p9
+asS'platform'
+p10
+S'Gameboy'
+p11
+sS'memory'
+p12
+I16
+sb.
